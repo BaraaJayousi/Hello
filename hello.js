@@ -1,1 +1,3 @@
-console.log("helllo, World")
+ function sum (num1, num2) {
+  return num1 + num2;
+}
